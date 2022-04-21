@@ -1,7 +1,7 @@
 # Dice
 :game_die: A simple, aesthetic tabletop dice rolling simulator featuring d4, d6, d8, d10, d12, d20 and d100! Use offline or host it yourself!  
 
-**Or just use it at [bkis.github.io/dice-or-die](https://bkis.github.io/dice-or-die/)!**
+**Or just use it at [lifeafter619.github.io/dice-or-die](https://lifeafter619.github.io/trpg-Dice-Simulator/)!**
 
 ![screencast](https://user-images.githubusercontent.com/9215743/77663082-f4170a80-6f7c-11ea-8ed8-c180db706319.gif)
 
