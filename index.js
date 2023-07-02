@@ -41,7 +41,7 @@ var images = {
         d8: "d8.png",
         d10: "d10.png",
         d12: "d12.png",
-        d20: "d20.png",
+        d53: "d53.png",
         d100: "d100.png",
         iconSoundOn: "icon-sound-on.png",
         iconSoundOff: "icon-sound-off.png",
